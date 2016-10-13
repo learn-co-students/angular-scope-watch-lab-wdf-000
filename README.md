@@ -8,7 +8,7 @@
 
 ## Instructions
 
-In this repo we've got a few fields to fill out for a user's information - username, and their countries short name (abbreviation), full name, and population. 
+In this repo, we've got a few fields to fill out for a user's information: their username and their country's short name (abbreviation), full name, and population.
 
 Using `$scope.$watch`, check whenever the username gets updated.
 
